@@ -1,6 +1,6 @@
 <h1 align="center">OpenBSP API</h1>
 <p align="center">
-  <strong>Open-source WhatsApp Business Platform</strong>
+  <strong>Open-source WhatsApp Business Platform!</strong>
 </p>
 <p align="center">
   Self-hostable, multi-tenant, AI-agent ready. Built with Deno 🦕 and Postgres 🐘, powered by Supabase ⚡
